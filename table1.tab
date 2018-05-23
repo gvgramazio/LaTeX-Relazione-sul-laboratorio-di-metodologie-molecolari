@@ -1,0 +1,21 @@
+% Require package `booktabs`
+
+\begin{tabular}{cccccccc}
+	\toprule
+	Campione & Marcatore PM & DNA                 & Tampone & EcoRI                   & ScaI                    & HinfI                   & H2O \\
+	         &              & (\si{\micro\litre}) & (10x)   & (10U/\si{\micro\litre}) & (10U/\si{\micro\litre}) & (10U/\si{\micro\litre}) & (\si{\micro\litre})\\
+	\midrule
+	1  & -                              & 2  & 2 E-S \si{\micro\litre} & -                    & -                    & -                    & 16 \\
+	2  & -                              & 2  & 2 E-S \si{\micro\litre} & \SI{1}{\micro\litre} & -                    & -                    & 15 \\
+	3  & -                              & 2  & 2 E-S \si{\micro\litre} & -                    & \SI{1}{\micro\litre} & -                    & 15 \\
+	4  & -                              & 2  & 2 E-S \si{\micro\litre} & \SI{1}{\micro\litre} & \SI{1}{\micro\litre} & -                    & 14 \\
+	5  & -                              & 10 & 2 E-S \si{\micro\litre} & -                    & -                    & -                    & 8 \\
+	6  & -                              & 10 & 2 E-S \si{\micro\litre} & \SI{1}{\micro\litre} & -                    & -                    & 7 \\
+	7  & -                              & 10 & 2 H \si{\micro\litre}   & -                    & -                    & \SI{1}{\micro\litre} & 7 \\
+	8  & -                              & 5  & 2 E-S \si{\micro\litre} & -                    & -                    & -                    & 13 \\
+	9  & -                              & 5  & 2 E-S \si{\micro\litre} & \SI{1}{\micro\litre} & -                    & -                    & 12 \\
+	10 & -                              & 5  & 2 H \si{\micro\litre}   & -                    & -                    & \SI{1}{\micro\litre} & 12 \\
+	11 & λ-Hind 5\si{\micro\litre}      & -  & -                       & -                    & -                    & -                    & 15 \\
+	12 & Scala 250pb 4\si{\micro\litre} & -  & -                       & -                    & -                    & -                    & 16 \\
+	\bottomrule
+\end{tabular}

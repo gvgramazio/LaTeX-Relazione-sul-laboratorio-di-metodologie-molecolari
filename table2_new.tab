@@ -1,0 +1,16 @@
+\begin{tabular}{rlcccc}
+\toprule
+&& proteine in cuvette & BSA standard & \ch{H2O}   & reattivo   \\
+&& (\si{\ug})          & (\si{\ug})   & (\si{\ug}) & (\si{\ul}) \\
+\midrule
+1 & bianco     & 0   & 0   & 1000 & 1000 \\
+2 & curva di taratura   & 2.5 & 50  & 950  & 1000 \\
+3 & curva di taratura   & 5   & 100 & 900  & 1000 \\
+4 & curva di taratura   & 10  & 200 & 800  & 1000 \\
+&&&&& \\
+5 & G diluito  & --  & 50  & 950  & 1000 \\
+6 & TC diluito & --  & 50  & 950  & 1000 \\
+7 & PC diluito & --  & 50  & 950  & 1000 \\
+8 & P diluito  & --  & 50  & 950  & 1000 \\
+\bottomrule
+\end{tabular}
